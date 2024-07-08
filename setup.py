@@ -5,8 +5,8 @@ with open('README.md', 'r') as file:
 
 
 setuptools.setup(
-	name = 'preprocess_kgptalkie', #this should be unique
-	version = '0.0.3',
+	name = 'preprocess_joe70633', #this should be unique
+	version = '0.0.4',
 	author = 'Laxmi Kant',
 	author_email = 'udemy@kgptalkie.com',
 	description = 'This is preprocessing package',
